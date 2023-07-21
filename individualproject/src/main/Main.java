@@ -1,3 +1,8 @@
+/*
+ Tracy Opoku
+ 10917815
+*/
+
 package main;
 
 import javafx.application.Application;
